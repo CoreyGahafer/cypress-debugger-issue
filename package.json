@@ -1,0 +1,14 @@
+{
+  "name": "cypress-debugger-issue",
+  "version": "1.0.0",
+  "description": "Dummy project to test cypress-debugger issue",
+  "engines": {
+    "node": ">=18",
+    "npm": ">=9"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.4",
+    "cypress-cloud": "^1.9.3",
+    "cypress-debugger": "^1.0.6"
+  }
+}
